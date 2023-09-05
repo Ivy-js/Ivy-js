@@ -1,7 +1,9 @@
+<img>https://cdn.discordapp.com/attachments/1141446759768395808/1148627150916812940/image.png</img>
 <h1 align="center">Salut 👋, Je suis BallinCat43</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 15 ans ! :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
+
 
 - 🔭 Je travaille sur [TimeRanked V1](https://discord.gg/dqPPqpjEEn)
 
