@@ -1,4 +1,4 @@
-<img>https://cdn.discordapp.com/attachments/1141446759768395808/1148627150916812940/image.png</img>
+![](https://cdn.discordapp.com/attachments/1141446759768395808/1148627150916812940/image.png)
 <h1 align="center">Salut 👋, Je suis BallinCat43</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 15 ans ! :)</h3>
 
