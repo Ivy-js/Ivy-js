@@ -1,4 +1,4 @@
-![](https://github.com/ballercat43/BallerCat43/blob/main/anime-banner-gif-file-2065kb-kmtu01zw6scfqjwu.gif)
+![](https://cdn.discordapp.com/attachments/1193615870610657441/1195903493098188860/666f0cf32fc192f9d2c2bfbdaaa4197e.jpg?ex=65b5aeeb&is=65a339eb&hm=0be6c1f7f8f6722ab65414ffacf3fb11f357aab88e5c80ef2f31bf9ad01cb1d3&)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 15 ans ! :)</h3>
 
