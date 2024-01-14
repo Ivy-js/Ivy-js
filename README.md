@@ -12,7 +12,7 @@
 - ⚡ Je souhaiterais aller **a Epitech (Nice)**
 
 <h3 align="left">Connect with me:</h3>
-- ⚡ Reach me at `669.ivy` on discord
+- ⚡ Reach me at `ivy.js` on discord
 <p align="left">
 </p>
 
