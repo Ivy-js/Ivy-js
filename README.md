@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
 
 
-- 🔭 Je travaille sur [Meender Shop](https://ballercat43.github.io/meender-shop.github.io/html/main.html)
+- 🔭 Je travaille sur [Meender Shop](https://ivy-js.github.io/meender-shop/html/main.html)
 
 - 🌱 Je suis entrain d'apprendre **TypeScript !**
 
