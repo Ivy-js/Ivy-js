@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1196152304794091571/1196753572537303090/ivy_banner.png?ex=65b8c69e&is=65a6519e&hm=c1222dd1dd65a7dec83b082f5e6ad38dc0a8d2e77533f474fe3d82ad124507fa&)
+![](./ivy_banner.png)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 15 ans ! :)</h3>
 
