@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/1193615870610657441/1195903493098188860/666f0cf32fc192f9d2c2bfbdaaa4197e.jpg?ex=65b5aeeb&is=65a339eb&hm=0be6c1f7f8f6722ab65414ffacf3fb11f357aab88e5c80ef2f31bf9ad01cb1d3&)
+![](https://cdn.discordapp.com/attachments/1196152304794091571/1196753572537303090/ivy_banner.png?ex=65b8c69e&is=65a6519e&hm=c1222dd1dd65a7dec83b082f5e6ad38dc0a8d2e77533f474fe3d82ad124507fa&)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 15 ans ! :)</h3>
 
