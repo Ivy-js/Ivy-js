@@ -11,6 +11,8 @@
 
 - ⚡ Je souhaiterais aller **a Epitech (Nice)**
 
+- 🥷 Je suis membre de la [211#CCXI](https://discord.gg/211fr)
+
 <h3 align="left">Connect with me:</h3>
 - ⚡ Reach me at `ivy.js` on discord
 <p align="left">
