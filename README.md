@@ -5,16 +5,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
 
 
-- 🔭 Je travaille sur [Meender Shop](https://ivy-js.github.io/meender-shop/html/main.html)
-
-- 🌱 Je suis entrain d'apprendre **TypeScript !**
-
-- ⚡ Je souhaiterais aller **a Epitech (Nice)**
-
-
-<h3 align="left">Connect with me:</h3>
-- ⚡ Reach me at `ivy.js` on discord
-<p align="left">
+```json
+{
+  "discord" : "ivy.js", 
+  "star ?" : "yes please star baba gurl",
+  "age" : "16",
+  "country" : "France"
+  "currentlyLearing" : "TypeScript (.ts)",
+  "WantToGoAt" : "Epitech (Nice)",
+}
+```
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
