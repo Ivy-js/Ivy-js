@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
 
 # Discord :) 
-<https://discord.com/users/1114616280138395738>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1114616280138395738)](https://discord.com/users/1114616280138395738)
 ```json
 {
   "discord" : "ivy.js", 
