@@ -5,14 +5,16 @@
 
 # Discord :) 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1114616280138395738)](https://discord.com/users/1114616280138395738)
+---
+# A propos de moi : 
 ```json
 {
-  "discord" : "ivy.js", 
-  "star ?" : "yes please star baba gurl",
-  "age" : "16",
-  "country" : "France"
-  "currentlyLearing" : "TypeScript (.ts)",
-  "WantToGoAt" : "Epitech (Nice)",
+  "🌸 discord" : "ivy.js", 
+  "⭐ star ?" : "yes please star baba gurl",
+  "📚 age" : "16",
+  "🏴 country" : "France"
+  "🪐 currentlyLearing" : "TypeScript (.ts)",
+  "✨ WantToGoAt" : "Epitech (Nice)",
 }
 ```
 </p>
@@ -27,6 +29,6 @@
 
 ![](https://avatars.githubusercontent.com/u/139628138?s=200&v=4)
 - Clarity-Corp (`By 1tsubasa`)
-
+---
 ![](https://avatars.githubusercontent.com/u/164413061?s=200&v=4)
 - CarryMe.lol (`By ivy-js`) 
