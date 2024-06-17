@@ -1,4 +1,4 @@
-![](./ivy_banner.png)
+![](./image.png)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
 <h3 align="center">Un développeur intérmédiaire agé de 16 ans ! :)</h3>
 
