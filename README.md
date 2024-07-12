@@ -1,6 +1,6 @@
 ![](./image.png)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
-<h3 align="center">Un développeur intérmédiaire agé de 16 ans ! :)</h3>
+<h3 align="center">Une développeuse intérmédiaire agé de 16 ans ! :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
 
@@ -26,7 +26,7 @@
 # Une petite présentation de moi ! 🎌
 
 ```
-Je me présente, Ivy, âgé de 16 ans et passioné de développement depuis maintenant 5 ans ! 
+Je me présente, Ivy, âgé de 16 ans et passionée de développement depuis maintenant 5 ans ! 
 
 J'adore Discord.JS, je fais beaucoup de Bots en ✨ JavaScript ✨
 Je vis dans le sud de la France, dans les Bouches du Rhônes, pas loin de Marseille.
