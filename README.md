@@ -1,6 +1,6 @@
 ![](./image.png)
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
-<h3 align="center">Une développeuse intérmédiaire agé de 16 ans ! :)</h3>
+<h3 align="center">Un developpeur intérmédiaire agé de 16 ans ! :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ballercat43&label=Profile%20views&color=0e75b6&style=flat" alt="ballercat43" /> </p>
 
