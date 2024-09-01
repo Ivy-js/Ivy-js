@@ -1,4 +1,7 @@
-![](./banner-inox.png)
+<div align="center">
+  <img src="https://github.com/Ivy-js/Ivy-js/blob/main/banner-inox.gif" alt="Banner" />
+</div>
+
 <h1 align="center">Salut 👋, Je suis Ivy-js</h1>
 <h3 align="center">Un developpeur intérmédiaire agé de 16 ans ! :)</h3>
 
