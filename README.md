@@ -19,7 +19,7 @@
   "📚 age" : "16",
   "🏴 country" : "France"
   "🪐 currentlyLearing" : "TypeScript (.ts)",
-  "✨ WantToGoAt" : "Epitech (Nice)",
+  "✨ WantToGoAt" : "Epitech (Marseille)",
 }
 ```
 
