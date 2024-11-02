@@ -7,12 +7,10 @@
 # About Ivy 🏂 : 
 ```json
 {
-  "🌸 discord" : "ivy.js", 
-  "⭐ star ?" : "yes please star baba gurl",
+  "🌸 discord" : "1sheol", 
   "📚 age" : "16",
   "🏴 country" : "France"
-  "🪐 currentlyLearing" : "TypeScript (.ts)",
-  "✨ WantToGoAt" : "Epitech (Marseille)",
+  "🪐 currentlyLearing" : "GoLang (.go)",
 }
 ```
 
