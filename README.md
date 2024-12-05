@@ -16,7 +16,7 @@
 
 ## **💕Cutie Counter**
 <a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://count.getloli.com/get/@Ivy-js?theme=rule34"></a>
-<a href="https://github.com/ivy-js"><img align="left" width="100" src="https://images-ext-1.discordapp.net/external/1xR5r3m-eKiMEWg45R4Rizmt3Mo3yQ3UET0Eh_nQO9g/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1114616280138395738/2adfb67e1f68f33f60fcb591f3fe04a9.png?format=webp&quality=lossless"></a>
+<a href="https://github.com/ivy-js"><img align="left" width="100" src="https://github.com/ivy-js.png"></a>
 
 ```yaml
 Jvous vois ceux qui visitent :^)
