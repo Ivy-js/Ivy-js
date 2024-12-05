@@ -12,7 +12,7 @@
   "🏴 country" : "France"
   "🪐 currentlyLearing" : "GoLang (.go)",
 }
-```
+``` 
 
 ## **💕Cutie Counter**
 <a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://count.getloli.com/get/@Ivy-js?theme=rule34"></a>
