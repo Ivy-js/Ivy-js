@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gambling.gif" />
+  <img src="1500x500.jpg" />
 </div>
 
 
