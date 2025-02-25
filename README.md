@@ -42,6 +42,6 @@ Passionné par le développement et l’optimisation des workflows, je conçois 
 Utilisateur de Linux, j’optimise mes environnements de travail avec Hyprland et un setup ricing personnalisé. Mon approche repose sur l’amélioration continue et la recherche constante de performance, tant sur le plan technique que personnel.
 
 Actuellement, je travaille sur des projets mêlant bots Discord, API et automatisation, tout en explorant de nouvelles technologies pour affiner mon expertise.
-Je travaille également sur @SoundCord, un projet futur autour du monde de la musique... 
+Je travaille également sur @Songs.me, un projet futur autour du monde de la musique... 
 ```
 
