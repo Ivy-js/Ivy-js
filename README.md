@@ -26,8 +26,7 @@ Thx to all visitors
 ```
 
 
-<a href="https://discord.com/users/1114616280138395738"><img align="left" width="425" src="https://lanyard.kyrie25.dev/api/1114616280138395738?theme=dark&?showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)
-&idleMessage=Probably%20doing%20something%20else..."></a>
+<a href="https://discord.com/users/1114616280138395738"><img align="left" width="425" src="https://lanyard.kyrie25.dev/api/1114616280138395738?theme=dark&?showBanner=animated&waveColor=transparent"></a>
 
 
 
