@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="1500x500.jpg" />
+  <img src="carti.png" />
 </div>
 
 
