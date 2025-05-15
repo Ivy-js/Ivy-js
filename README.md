@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="carti.png" />
+  <img src="2025-05-15_22.49.58.png" />
 </div>
 
 
@@ -8,7 +8,7 @@
 ```json
 {
   "🌸 discord" : "1sheol", 
-  "📚 age" : "16",
+  "📚 age" : "17",
   "🏴 country" : "France"
   "🪐 currentlyLearing" : "GoLang (.go)",
 }
