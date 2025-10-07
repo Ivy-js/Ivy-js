@@ -4,66 +4,6 @@
 
 
 
-# About Ivy 🏂 : 
-```json
-{
-    "name": "Raphaël",
-    "gender": "male",
-    "age": 17,
-    "birthday": "15th May 2008",
-    "location": "France, Var, Toulon",
-    "hardware": {
-        "desktop01": {
-            "os": "Windows 11",
-            "cpu": "Ryzen 7 5600X",
-            "gpu": "Nvidia GeForce RTX 2060",
-            "ram": "32 GB DDR4 3600 MHz",
-            "storages": {
-                "SSD01": "500 GB 89% used",
-                "SSD02": "500 GB 91% used",
-                "HDD01": "1 TB 56% used"
-            }
-        },
-        "laptop01": {
-            "os": ["Ubuntu 24.04", "Arch Linux"],
-            "cpu": "Ryzen 5 3600X",
-            "gpu": "Integrated Graphics",
-            "ram": "40 GB DDR4 3200 MHz",
-            "storages": {
-                "SSD01": "1 TB"
-            }
-        },
-        "phone01": {
-            "model": "Nothing Phone (2a) Plus"
-        },
-        "phone02": {
-            "model": "Apple iPhone 11 Black"
-        }
-    },
-    "preferences": {
-        "prefered_os": {
-            "OnComputer": [
-                "Arch Linux",
-                "Fedora"
-            ],
-            "OnPhone": [
-                "iOS"
-            ]
-        },
-        "favorite_colors": [
-            "pink",
-            "purple",
-            "grey",
-            "black"
-        ]
-    },
-    "language": [
-        "English",
-        "Français"
-    ]
-}
-``` 
-
 ## **💕Cutie Counter**
 <a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://count.getloli.com/get/@Ivy-js?theme=rule34"></a>
 <a href="https://github.com/ivy-js"><img align="left" width="100" src="https://github.com/ivy-js.png"></a>
