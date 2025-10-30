@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="aled.png" />
+  <img src="TTI6r1e.png" />
 </div>
