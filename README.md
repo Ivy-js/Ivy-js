@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="masterclass.gif" alt="Banner" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://github.com/ivy-js">
     </a>
 
   # 👋 Hey! Je suis Raphaël Massé !
-
-  <a href="https://discord.com/users/1114616280138395738">
-    <img src="https://lanyard.kyrie25.dev/api/1114616280138395738?theme=dark&showBanner=animated&waveColor=transparent" alt="Discord Status"/>
-  </a>
 </div>
 
 <br />
