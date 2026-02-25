@@ -6,4 +6,5 @@ for my projects
 
 you can check another open-source project here: [Miawstral](https://github.com/miawstral/miawstralapi)
 
+check my CV here too! -> [CV](./CV-RAPHAEL.pdf) <br>
 feel free to mail me here: raphael.masse@epitech.eu
